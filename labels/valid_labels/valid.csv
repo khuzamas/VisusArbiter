@@ -1,0 +1,322 @@
+action_number,offence_severity,action_class
+0,Offence + Yellow card,Holding
+1,Offence + No card,Challenge
+3,Offence + Yellow card,Elbowing
+6,Offence + Yellow card,Elbowing
+7,Offence + Yellow card,Tackling
+8,Offence + No card,Standing tackling
+9,Offence + Yellow card,Tackling
+10,Offence + No card,Standing tackling
+11,No offence,High leg
+12,Offence + No card,Pushing
+13,Offence + Yellow card,Tackling
+16,Offence + No card,Standing tackling
+17,Offence + No card,Pushing
+18,Offence + Red card,Tackling
+20,No offence,Pushing
+21,Offence + No card,Standing tackling
+23,Offence + Yellow card,Tackling
+24,Offence + No card,Standing tackling
+25,Offence + Yellow card,Holding
+26,Offence + No card,High leg
+27,Offence + No card,Standing tackling
+28,Offence + No card,Challenge
+29,Offence + No card,Standing tackling
+31,Offence + No card,Standing tackling
+32,Offence + No card,Holding
+33,Offence + Yellow card,Tackling
+35,Offence + No card,Tackling
+36,Offence + No card,Standing tackling
+37,Offence + No card,Holding
+38,Offence + Yellow card,Standing tackling
+39,No offence,Challenge
+40,Offence + No card,Holding
+41,Offence + No card,Standing tackling
+43,Offence + Yellow card,Standing tackling
+44,Offence + Yellow card,Standing tackling
+45,Offence + Yellow card,Tackling
+46,Offence + No card,Standing tackling
+47,Offence + Yellow card,Tackling
+48,Offence + No card,Standing tackling
+49,Offence + Yellow card,Standing tackling
+50,No offence,Challenge
+53,Offence + No card,Holding
+56,Offence + Yellow card,Holding
+58,Offence + No card,Standing tackling
+59,Offence + No card,Challenge
+62,Offence + No card,Elbowing
+63,Offence + Yellow card,Standing tackling
+65,Offence + No card,Challenge
+66,Offence + No card,Tackling
+67,Offence + No card,Challenge
+68,Offence + No card,Standing tackling
+69,Offence + No card,Standing tackling
+70,Offence + No card,Challenge
+71,Offence + Yellow card,Standing tackling
+72,Offence + No card,Standing tackling
+74,No offence,Standing tackling
+75,Offence + Yellow card,Tackling
+76,Offence + No card,Standing tackling
+77,Offence + Yellow card,Tackling
+78,Offence + No card,Standing tackling
+79,Offence + Yellow card,Holding
+80,Offence + No card,Challenge
+82,Offence + Yellow card,Tackling
+83,No offence,Pushing
+84,Offence + No card,Standing tackling
+85,No offence,Challenge
+87,Offence + No card,Standing tackling
+88,No offence,Tackling
+89,Offence + Yellow card,Tackling
+90,Offence + No card,Challenge
+91,Offence + No card,Holding
+93,Offence + Red card,Elbowing
+95,Offence + No card,Standing tackling
+97,Offence + No card,Standing tackling
+100,Offence + No card,Holding
+101,No offence,High leg
+102,Offence + Yellow card,Elbowing
+103,Offence + No card,Challenge
+104,Offence + No card,Standing tackling
+105,Offence + Yellow card,Tackling
+106,Offence + No card,Standing tackling
+107,Offence + No card,Standing tackling
+108,No offence,Holding
+109,Offence + No card,Standing tackling
+110,Offence + Yellow card,High leg
+111,Offence + No card,Holding
+112,Offence + No card,Standing tackling
+113,Offence + No card,Holding
+114,No offence,Tackling
+116,Offence + Yellow card,Elbowing
+118,Offence + No card,Standing tackling
+119,Offence + No card,Standing tackling
+120,Offence + No card,Holding
+121,Offence + No card,Tackling
+122,Offence + Yellow card,Tackling
+124,Offence + No card,Standing tackling
+127,Offence + Yellow card,Tackling
+128,Offence + No card,Standing tackling
+129,Offence + Yellow card,Tackling
+131,Offence + No card,Standing tackling
+132,No offence,Standing tackling
+133,Offence + No card,High leg
+134,Offence + Yellow card,Tackling
+135,Offence + No card,Standing tackling
+138,Offence + No card,Standing tackling
+140,Offence + Yellow card,Holding
+142,Offence + Yellow card,Standing tackling
+144,Offence + No card,Challenge
+145,Offence + No card,Standing tackling
+146,Offence + Yellow card,Standing tackling
+147,Offence + Yellow card,Holding
+149,No offence,Standing tackling
+150,Offence + No card,Holding
+151,Offence + No card,Holding
+152,Offence + No card,Standing tackling
+153,No offence,Holding
+154,Offence + No card,Standing tackling
+155,Offence + No card,Tackling
+156,Offence + Yellow card,Tackling
+157,Offence + No card,Tackling
+158,Offence + No card,Challenge
+159,Offence + No card,Standing tackling
+160,Offence + No card,Standing tackling
+161,Offence + No card,Standing tackling
+163,Offence + Yellow card,Standing tackling
+165,Offence + No card,Elbowing
+166,Offence + No card,Standing tackling
+167,Offence + No card,Standing tackling
+168,Offence + No card,Standing tackling
+169,Offence + Yellow card,Standing tackling
+170,Offence + Yellow card,Tackling
+171,Offence + Yellow card,High leg
+173,Offence + No card,Tackling
+174,Offence + No card,Standing tackling
+175,Offence + No card,Standing tackling
+177,Offence + No card,Standing tackling
+178,Offence + Yellow card,Tackling
+179,Offence + No card,Standing tackling
+183,Offence + Yellow card,High leg
+184,Offence + No card,Holding
+185,Offence + No card,High leg
+187,Offence + No card,Tackling
+190,Offence + No card,Standing tackling
+192,Offence + Yellow card,Tackling
+193,Offence + No card,Tackling
+194,Offence + No card,Tackling
+195,Offence + Yellow card,Holding
+198,Offence + No card,Standing tackling
+199,Offence + Yellow card,Holding
+200,Offence + No card,Tackling
+204,Offence + Yellow card,Standing tackling
+205,Offence + Yellow card,Tackling
+206,No offence,Challenge
+207,Offence + Yellow card,Standing tackling
+208,Offence + No card,Tackling
+209,Offence + Yellow card,Tackling
+211,Offence + No card,High leg
+212,Offence + No card,Standing tackling
+213,Offence + Yellow card,Holding
+214,Offence + Yellow card,Standing tackling
+216,Offence + No card,Standing tackling
+218,Offence + Yellow card,Standing tackling
+219,Offence + No card,Standing tackling
+220,Offence + Yellow card,Tackling
+221,Offence + No card,Dive
+223,Offence + No card,Holding
+224,Offence + No card,Holding
+225,Offence + Red card,Tackling
+227,Offence + No card,Tackling
+228,Offence + Yellow card,Tackling
+229,Offence + No card,Standing tackling
+230,Offence + Yellow card,Standing tackling
+231,Offence + Yellow card,Tackling
+232,Offence + No card,Standing tackling
+233,Offence + No card,Pushing
+236,Offence + Yellow card,Standing tackling
+238,Offence + Yellow card,Holding
+239,Offence + No card,Holding
+240,Offence + Yellow card,Holding
+241,Offence + Yellow card,Tackling
+242,Offence + Yellow card,Standing tackling
+244,Offence + No card,Tackling
+245,Offence + Yellow card,Standing tackling
+246,Offence + No card,Challenge
+247,Offence + No card,Challenge
+248,No offence,Holding
+249,Offence + No card,Standing tackling
+250,Offence + Yellow card,Standing tackling
+251,Offence + No card,Standing tackling
+252,Offence + Yellow card,Tackling
+253,Offence + No card,Holding
+254,Offence + No card,Challenge
+255,Offence + Yellow card,Standing tackling
+256,Offence + Yellow card,High leg
+257,Offence + Yellow card,High leg
+258,Offence + No card,Tackling
+259,Offence + No card,Standing tackling
+260,Offence + No card,Standing tackling
+262,Offence + Yellow card,Holding
+263,Offence + No card,Standing tackling
+264,Offence + No card,Tackling
+265,No offence,Holding
+266,Offence + No card,Holding
+267,Offence + No card,Standing tackling
+268,Offence + Yellow card,Holding
+270,Offence + No card,Standing tackling
+272,Offence + Yellow card,Standing tackling
+273,Offence + Yellow card,Standing tackling
+274,Offence + No card,Holding
+275,No offence,Challenge
+276,Offence + No card,Standing tackling
+278,Offence + Yellow card,Holding
+279,Offence + No card,Standing tackling
+282,Offence + No card,Standing tackling
+283,Offence + Yellow card,Holding
+284,Offence + No card,Challenge
+286,Offence + Yellow card,Elbowing
+287,Offence + Yellow card,Standing tackling
+288,Offence + Yellow card,Elbowing
+289,Offence + No card,Pushing
+290,Offence + No card,Standing tackling
+291,No offence,Tackling
+292,Offence + Yellow card,Standing tackling
+293,Offence + Yellow card,Elbowing
+294,Offence + Yellow card,Standing tackling
+295,Offence + No card,Standing tackling
+297,Offence + No card,Challenge
+298,Offence + Yellow card,Tackling
+299,Offence + No card,Holding
+300,No offence,Tackling
+301,Offence + No card,Standing tackling
+302,Offence + No card,Holding
+303,Offence + Yellow card,Tackling
+304,Offence + No card,Standing tackling
+305,Offence + Yellow card,Tackling
+307,Offence + No card,Standing tackling
+308,Offence + No card,Holding
+310,Offence + No card,Holding
+312,Offence + No card,Tackling
+313,Offence + No card,Standing tackling
+314,No offence,Challenge
+315,Offence + No card,Standing tackling
+316,Offence + Yellow card,Tackling
+317,Offence + No card,Pushing
+318,Offence + No card,Challenge
+319,No offence,Standing tackling
+320,Offence + No card,Holding
+323,Offence + No card,Standing tackling
+324,Offence + Yellow card,Elbowing
+325,Offence + Yellow card,Standing tackling
+326,Offence + No card,Standing tackling
+327,Offence + Yellow card,Tackling
+328,Offence + No card,High leg
+329,Offence + Yellow card,Elbowing
+330,No offence,Challenge
+331,Offence + Yellow card,Elbowing
+332,Offence + No card,Standing tackling
+334,Offence + No card,Challenge
+335,Offence + Yellow card,Challenge
+336,Offence + No card,Standing tackling
+338,Offence + No card,Standing tackling
+339,Offence + No card,Standing tackling
+340,No offence,Holding
+342,No offence,Pushing
+343,No offence,Challenge
+344,No offence,Tackling
+345,Offence + No card,Standing tackling
+346,Offence + Yellow card,Holding
+347,Offence + Yellow card,Standing tackling
+348,Offence + No card,Standing tackling
+349,Offence + No card,Holding
+350,No offence,Challenge
+351,Offence + No card,Standing tackling
+352,Offence + No card,Standing tackling
+354,Offence + No card,Tackling
+355,Offence + No card,Standing tackling
+356,Offence + Yellow card,Holding
+358,No offence,Challenge
+359,Offence + No card,Tackling
+360,Offence + No card,Standing tackling
+361,Offence + No card,Pushing
+363,Offence + No card,Standing tackling
+364,Offence + Yellow card,Standing tackling
+366,Offence + No card,Tackling
+367,Offence + No card,Standing tackling
+368,Offence + No card,Challenge
+369,Offence + No card,Standing tackling
+370,Offence + Yellow card,Tackling
+371,Offence + No card,Standing tackling
+372,Offence + No card,Challenge
+373,Offence + Yellow card,High leg
+374,Offence + No card,Pushing
+375,Offence + No card,Challenge
+376,Offence + No card,Holding
+377,Offence + No card,Holding
+378,Offence + No card,Standing tackling
+379,Offence + Yellow card,Standing tackling
+381,Offence + No card,Standing tackling
+382,Offence + Yellow card,Standing tackling
+384,Offence + No card,Standing tackling
+385,Offence + Yellow card,Standing tackling
+386,Offence + No card,Standing tackling
+387,Offence + No card,Pushing
+388,Offence + Yellow card,Standing tackling
+389,Offence + No card,Tackling
+390,Offence + No card,Standing tackling
+391,No offence,Pushing
+392,Offence + No card,Standing tackling
+393,Offence + No card,Standing tackling
+394,Offence + No card,Standing tackling
+395,Offence + No card,Challenge
+396,No offence,Holding
+398,Offence + Yellow card,Elbowing
+399,Offence + No card,High leg
+400,Offence + No card,Challenge
+402,Offence + Yellow card,High leg
+404,Offence + Yellow card,Holding
+405,Offence + Yellow card,Challenge
+407,Offence + No card,Standing tackling
+408,No offence,Tackling
+409,Offence + Yellow card,Tackling
