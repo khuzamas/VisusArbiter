@@ -2,8 +2,7 @@
 
 Capstone project for T5 Bootcamp (Data Science and Artificial Intelligence)
 
-![VisusArbiter-Presentation](https://github.com/khuzamas/VisusArbiter/assets/46532822/5a57325c-1245-432b-89c8-8cc20221e51a)
-
+![logo](https://github.com/khuzamas/VisusArbiter/assets/46532822/f3d7e8e8-d5f6-473a-b37e-f7587aee6d05)
 
 ## Problem Description
 
