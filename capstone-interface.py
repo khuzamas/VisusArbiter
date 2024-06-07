@@ -1,5 +1,5 @@
 import streamlit as st 
-from streamlit_navigation_bar import st_navbar
+# from streamlit_navigation_bar import st_navbar
 import pages as pg
 import torch
 from transformers import pipeline
@@ -7,20 +7,20 @@ import numpy as np
 import keras
 import json
 import pandas as pd
-import pages as pg
 #pages
 pages =["VisusArbiter"]
+st.session_state['page']= 1
 st.set_page_config(initial_sidebar_state="collapsed", page_title='VisusArbiter', page_icon='⚽')
 options = {
     "show_menu": False,
     "show_sidebar": False,
 }
 styles = {"nav": {"background-color": "rgb(6 56 21)"}}
-page = st_navbar(
-    pages,
-    styles=styles,
-    options=options,
-)
+# page = st_navbar(
+#     pages,
+#     styles=styles,
+#     options=options,
+# )
 
 def page_home():
     st.markdown('''
@@ -224,7 +224,5 @@ def page_predict():
             st.table(model_predictions2)
 
 
-if page=='VisusArbiter':
+if st.session_state['page']==1:
     page_predict()
-if page=='Home':
-    page_home()
