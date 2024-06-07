@@ -1,6 +1,6 @@
 import streamlit as st 
 # from streamlit_navigation_bar import st_navbar
-import pages as pg
+#import pages as pg
 import torch
 from transformers import pipeline
 import numpy as np
